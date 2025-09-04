@@ -1,0 +1,2 @@
+# Finnova
+Personal Finance Tracker
